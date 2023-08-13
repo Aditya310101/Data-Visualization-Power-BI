@@ -1,5 +1,7 @@
 # Data Visualization Project using Power BI
 
+![image](https://github.com/Aditya310101/Data-Visualization-Power-BI/assets/71015810/01f1d177-401a-45ad-b028-9c76c29753e6)
+
 Welcome to the GitHub repository for my Data Visualization project using Power BI! In this project, I have utilized Power BI to create compelling visualizations from raw datasets, enabling data-driven insights and informed decision-making. This repository contains the resources and documentation related to the project.
 
 ## Project Overview
