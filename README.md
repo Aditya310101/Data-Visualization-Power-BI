@@ -26,15 +26,21 @@ After preparing the data and designing visualizations, I uploaded the Power BI r
 Here's a brief overview of the contents of this repository:
 
 /data: This directory contains the raw and processed datasets used in the project.
+
 /scripts: Any scripts used for data transformation or preprocessing are located here.
+
 /visualizations: Screenshots or images of the key visualizations generated in the Power BI report.
+
 /report: The Power BI report file (.pbix) is stored in this directory.
+
 /dashboard: This directory contains files related to the interactive dashboard created using the Power BI report.
-Getting Started
+
+## Getting Started
 If you're interested in exploring the visualizations and insights generated through this project, follow these steps:
 
 Clone this repository to your local machine.
 Navigate to the /report directory and open the Power BI report file (.pbix) using Power BI Desktop.
+
 Interact with the visualizations and explore the dashboard to gain valuable insights from the data.
 
 Feel free to reach out if you have any questions, suggestions, or feedback regarding this project. I hope these visualizations provide a clear understanding of the data and its implications.
