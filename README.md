@@ -1,8 +1,8 @@
-## Data Visualization Project using Power BI
+# Data Visualization Project using Power BI
 
 Welcome to the GitHub repository for my Data Visualization project using Power BI! In this project, I have utilized Power BI to create compelling visualizations from raw datasets, enabling data-driven insights and informed decision-making. This repository contains the resources and documentation related to the project.
 
-# Project Overview
+## Project Overview
 
 The primary goal of this project was to transform and visualize complex datasets to provide meaningful insights for better understanding and analysis. I employed various techniques and features offered by Power BI to achieve this, including Power Query for data cleaning and transformation, establishing relationships for data modeling, and utilizing DAX (Data Analysis Expressions) to create explicit measures for enhanced control and reusability.
 
@@ -22,7 +22,7 @@ This project encompasses a range of visualization techniques including cards, ta
 5. Online Report and Dashboard Creation:
 After preparing the data and designing visualizations, I uploaded the Power BI report online. This allowed me to create an interactive dashboard that provides a seamless and user-friendly experience for exploring insights and trends within the data.
 
-Repository Structure
+## Repository Structure
 Here's a brief overview of the contents of this repository:
 
 /data: This directory contains the raw and processed datasets used in the project.
