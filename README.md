@@ -6,7 +6,7 @@ Welcome to the GitHub repository for my Data Visualization project using Power B
 
 The primary goal of this project was to transform and visualize complex datasets to provide meaningful insights for better understanding and analysis. I employed various techniques and features offered by Power BI to achieve this, including Power Query for data cleaning and transformation, establishing relationships for data modeling, and utilizing DAX (Data Analysis Expressions) to create explicit measures for enhanced control and reusability.
 
-# Tasks Accomplished
+## Tasks Accomplished
 1. Data Cleaning and Transformation using Power Query:
 I employed Power Query to clean and transform the raw datasets. This process involved handling missing values, standardizing data formats, and performing necessary data wrangling steps to ensure data accuracy and consistency.
 
